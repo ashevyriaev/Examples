@@ -1,0 +1,6 @@
+@WithStringLocalizer_HostAddress = http://localhost:5242
+
+GET {{WithStringLocalizer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
